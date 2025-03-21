@@ -1,4 +1,5 @@
 EDA-CustomerChurn 📊
+
 Exploratory Data Analysis (EDA) on a Customer Churn dataset to uncover key insights and patterns using Pandas, NumPy, Matplotlib, and Seaborn.
 
 📌 Features
